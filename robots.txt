@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dalohngahx.bossingup.net/sitemap.xml
